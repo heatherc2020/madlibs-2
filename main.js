@@ -67,3 +67,7 @@ function hideSections(){
     }
 hideSections();
 init();
+console.log("hello!");
+
+
+// test
