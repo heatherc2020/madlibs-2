@@ -70,4 +70,3 @@ init();
 console.log("hello!");
 
 
-// test
